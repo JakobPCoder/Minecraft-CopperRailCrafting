@@ -1,4 +1,31 @@
-Unless noted below, Minecraft Forge, Forge Mod Loader, and all 
+# Minecraft CopperRailCrafting License
+- <strong> Copper Rail Crafting</strong>
+- <strong> First published 2023 - Copyright, Jakob Wapenhensch </strong>
+- Build up upon the Minecraft Forge sources
+
+## This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License
+- <strong> https://creativecommons.org/licenses/by-nc/4.0/
+- https://creativecommons.org/licenses/by-nc/4.0/legalcode </strong>
+- NOTE: This License only applies to the files added through the development of "Copper Rail Crafting". ALl other files are licensed by their authors through the "Minecraft Forge License" section below. 
+
+## Human-readable summary of the License:
+- <strong>NOT a substitute for https://creativecommons.org/licenses/by-nc/4.0/legalcode </strong>
+### You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+### Under the following terms:
+- <strong>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</strong>
+- <strong>NonCommercial — You may not use the material for commercial purposes.</strong>
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+### Notices:
+- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+
+# Minecraft Forge License:
+
+Unless noted above or below, Minecraft Forge, Forge Mod Loader, and all
 parts herein are licensed under the terms of the LGPL 2.1 found
 here http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt and 
 copied below.
