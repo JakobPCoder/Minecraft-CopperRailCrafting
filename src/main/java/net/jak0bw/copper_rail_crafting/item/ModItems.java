@@ -11,9 +11,6 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, CopperRailCrafting.MOD_ID);
 
 
-    //ingot
-    //steel
-
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
