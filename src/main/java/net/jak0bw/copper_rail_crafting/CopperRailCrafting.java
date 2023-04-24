@@ -35,6 +35,7 @@ public class CopperRailCrafting
 
     }
 
+
     private void commonSetup(final FMLCommonSetupEvent event)
     {
 
